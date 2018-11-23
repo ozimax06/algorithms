@@ -1,0 +1,13 @@
+C:\Users\ondero\Desktop\dev\C#\Test\Test\bin\Debug\Test.exe.config
+C:\Users\ondero\Desktop\dev\C#\Test\Test\bin\Debug\Test.exe
+C:\Users\ondero\Desktop\dev\C#\Test\Test\bin\Debug\Test.pdb
+C:\Users\ondero\Desktop\dev\C#\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\ondero\Desktop\dev\C#\Test\Test\obj\Debug\Test.exe
+C:\Users\ondero\Desktop\dev\C#\Test\Test\obj\Debug\Test.pdb
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\bin\Debug\Test.exe.config
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\bin\Debug\Test.exe
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\bin\Debug\Test.pdb
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\obj\Debug\Test.exe
+C:\Users\ondero\Desktop\dev\Algorithms\Test\Test\obj\Debug\Test.pdb
